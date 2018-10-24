@@ -1,12 +1,12 @@
 # Rezerviral sem si naslednje naloge:
 ### [Učni list - Decimalna števila.pdf](https://www.sc-nm.si/sss/si/file/download/849_fd9b628c8edd/U%C4%8Dni%20list%20-%20Decimalna%20%C5%A1tevila.pdf)
-- 4
+- 5
 
 ### [Učni list - Deljivost.pdf](https://www.sc-nm.si/sss/si/file/download/860_7c1612944279/U%C4%8Dni%20list%20-%20Deljivost.pdf)
 - 4
 
 ### [Učni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
-- 8
+- 14
 
 ### [Učni list - Logaritem.pdf](https://www.sc-nm.si/sss/file/open/720_d3042caaa069/U%C4%8Dni%20list%20-%20Logaritem%20-%202.pdf)
 - 4
