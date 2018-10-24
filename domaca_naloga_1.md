@@ -20,7 +20,7 @@
 ### [Učni list - Kotne funkcije - 2.pdf](https://www.sc-nm.si/sss/file/open/615_b422a31ead54/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20-%202.pdf)
 - 4
 
-## [Učni list - Lastnosti funkcij.pdf](https://www.sc-nm.si/sss/file/open/667_3f1f753590dc/U%C4%8Dni%20list%20-%20Lastnosti%20funkcij.pdf)
+### [Učni list - Lastnosti funkcij.pdf](https://www.sc-nm.si/sss/file/open/667_3f1f753590dc/U%C4%8Dni%20list%20-%20Lastnosti%20funkcij.pdf)
 - 4
 
 ### [Učni list - Odvod - 1.pdf](https://www.sc-nm.si/sss/file/open/668_cb52c5ef2752/U%C4%8Dni%20list%20-%20Odvod%20-%201.pdf)
